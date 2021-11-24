@@ -1,7 +1,0 @@
-<<<<<<< Updated upstream
-This is the new chapter 4.
-=======
-
-
-Adding new content to chap4.
->>>>>>> Stashed changes
