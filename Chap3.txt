@@ -2,6 +2,4 @@ This is chapter 3 of my story.
 
 Adding new content to my story.
 
-Adding new content to branch exp_branch.
-
-Adding more content v2.
+Adding new content to branch 2nd branch.
